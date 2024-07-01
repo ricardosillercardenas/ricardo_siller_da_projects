@@ -7,4 +7,6 @@ Here you'll find:
 
 2.- Instacart Project: in which I analyzed commercial information for a food delivery app.
 
+3.- Megaline Project: in which I analyzed fees from a cellphone company.
+
 More projects coming soon.
