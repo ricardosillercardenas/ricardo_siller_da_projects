@@ -11,4 +11,6 @@ Here you'll find:
 
 4.- Zuber Project: in which I analyze passenger preferences and discern the influence of external factors on rides. I scrutinize competitor data, and put hypotheses to the test, particularly exploring the correlation between weather conditions and ride frequency.
 
+5.- ICE Store Project: in which I analyze various factors influencing the success of video games. By identifying patterns in these factors, I aim to predict which games are likely to perform well in the market. 
+
 More projects coming soon.
