@@ -15,4 +15,8 @@ Here you'll find:
 
 6.- Y.Afisha Project: This project is part of an externship opportunity in the analytical department of Y.Afisha. The primary objective of this project is to help optimize Y.Afisha's marketing expenses by analyzing customer behavior, sales, and marketing costs. My analysis focused on understanding how customers use the service, when they start making purchases, and how much revenue each customer generates. This was done by making extensive use of cohort analysis. Additionally, I evaluated the total marketing expenditure, determined the cost of customer acquisition for each marketing source, and assessed the return on marketing investment (ROMI).
 
+7.- Doggy Delights: As an analyst, I'm collaborating with the marketing department of this large online store to find ways to increase revenue. My work involves prioritizing marketing hypotheses using ICE and RICE frameworks and analyzing A/B test results. By examining data on orders and visits, I aim to provide clear, data-driven insights to guide strategic decisions that will boost our online store's revenue.
+
+8.- Byte and Brew: A robot-operated café in Los Angeles. To ensure the success and sustainability of this ambitious project, as a data analyst, I study the types of establishments, chain versus independent restaurants, and successful characteristics. This analysis will guide strategic decisions and help us present Byte and Brew as a promising and innovative business opportunity.
+
 More projects coming soon.
