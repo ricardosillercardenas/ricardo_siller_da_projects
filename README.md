@@ -19,4 +19,6 @@ Here you'll find:
 
 8.- Byte and Brew: A robot-operated café in Los Angeles. To ensure the success and sustainability of this ambitious project, as a data analyst, I study the types of establishments, chain versus independent restaurants, and successful characteristics. This analysis will guide strategic decisions and help us present Byte and Brew as a promising and innovative business opportunity.
 
+9.- Taste Treasures: Here I'm collaborating with a startup focused on selling food products online. The objective is to analyze user behavior within their app to optimize the shopping experience and boost conversions. The analysis includes examining the sales funnel to identify where users drop off and conducting an A/A/B test to evaluate the impact of a new font design on user engagement. Using a dataset that logs user actions, the goal is to provide data-driven insights to enhance the app's quality and user experience, leading to informed decisions for future development.
+
 More projects coming soon.
