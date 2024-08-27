@@ -21,4 +21,6 @@ Here you'll find:
 
 9.- Taste Treasures: Here I'm collaborating with a startup focused on selling food products online. The objective is to analyze user behavior within their app to optimize the shopping experience and boost conversions. The analysis includes examining the sales funnel to identify where users drop off and conducting an A/A/B test to evaluate the impact of a new font design on user engagement. Using a dataset that logs user actions, the goal is to provide data-driven insights to enhance the app's quality and user experience, leading to informed decisions for future development.
 
+10.- Sterling & Draper: This project involves working as an analyst at the advertising agency Sterling & Draper, where our primary goal is to enhance the efficiency of our video trend analysis on YouTube. By developing a comprehensive dashboard, I aimed to automate the process of tracking and analyzing trending video categories, regions, and specific content that resonates particularly well in the United States. This dashboard not only streamlines our internal reporting processes but also provides valuable insights to our video planning managers, ensuring that our marketing strategies are data-driven and targeted for maximum impact.
+
 More projects coming soon.
