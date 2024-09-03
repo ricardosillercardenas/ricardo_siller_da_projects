@@ -2,9 +2,9 @@
 
 **Data Analysis projects developed by Ricardo Siller**
 
-**DISCLAIMER:** The projects listed showcase various data analysis and machine learning techniques applied across multiple industries. 
+The projects listed next showcase various data analysis and machine learning techniques applied across multiple industries. 
 
-*Please note that the names of the companies and organizations involved have been changed for confidentiality reasons. This allows us to demonstrate the breadth and impact of the work while maintaining the privacy and integrity of the real entities and their data.*
+***DISCLAIMER:** Please note that the names of the companies and organizations involved have been changed for confidentiality reasons. This allows us to demonstrate the breadth and impact of the work while maintaining the privacy and integrity of the real entities and their data.*
 
 Here's what you'll find:
 
